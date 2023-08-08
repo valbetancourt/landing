@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  height: 150px;
+  background-color: #2c2b2b;
+}
+
+.links {
+  font-size: 30px;
+  color: white;
+}
+
+.links p {
+  color: #6B6C6C;
+  font-size: 15px;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.links i {
+  color: rgb(127, 255, 146);
+}
